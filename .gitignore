@@ -31,8 +31,10 @@ Thumbs.db
 !.vscode/extensions.json
 !.vscode/settings.json
 
-# Cursor
-.cursor/
+# Cursor (keep committed project rules)
+.cursor/*
+!.cursor/rules/
+!.cursor/rules/**
 
 # TypeScript
 *.tsbuildinfo

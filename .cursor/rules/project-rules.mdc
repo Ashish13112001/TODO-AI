@@ -1,0 +1,40 @@
+# Project Rules
+
+## Documentation
+
+Before implementing any task, read:
+
+1. REQUIREMENTS.md
+2. PLAN.md
+3. IMPLEMENTATION.md
+
+These files are the source of truth for this project.
+
+## Development Approach
+
+- Build the project one task at a time.
+- Implement only the task explicitly requested.
+- Do not implement future tasks.
+- Do not skip planned steps.
+
+## Code Quality
+
+- Use TypeScript properly.
+- Avoid unnecessary `any`.
+- Keep code clean and maintainable.
+- Do not over-engineer.
+- Inspect existing code before modifying it.
+
+## Verification
+
+After implementation:
+
+- Check for TypeScript errors.
+- Run the relevant application/tests.
+- Verify that the requested task works.
+
+## Important
+
+Do not invent requirements or features.
+Do not modify unrelated code.
+Do not implement the entire project at once.
